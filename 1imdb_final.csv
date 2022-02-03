@@ -1,0 +1,264 @@
+,title,director,duration,rating,genre,type,cleaned_title,disney+,netflix,hbo
+0,Toy Story,John Lasseter,1:21,8.3,"['Animation', 'Adventure', 'Comedy']",movie,toy story,Yes,No,No
+1,Amadeus,Milos Forman,2:40,8.3,"['Biography', 'Drama', 'Music']",movie,amadeus,No,No,No
+2,American Beauty,Sam Mendes,2:2,8.3,['Drama'],movie,american beauty,No,No,No
+3,Braveheart,Mel Gibson,2:58,8.3,"['Biography', 'Drama', 'History']",movie,braveheart,No,No,No
+4,Inglourious Basterds,Quentin Tarantino,2:33,8.3,"['Adventure', 'Drama', 'War']",movie,inglourious basterds,No,Yes,No
+5,Good Will Hunting,Gus Van Sant,2:6,8.3,"['Drama', 'Romance']",movie,good will hunting,No,No,No
+6,Hamilton,Thomas Kail,2:40,8.4,"['Biography', 'Drama', 'History']",movie,hamilton,Yes,No,No
+7,Idi i smotri,Elem Klimov,2:22,8.3,"['Drama', 'Thriller', 'War']",movie,idi i smotri,No,No,No
+8,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,2:11,8.3,"['Action', 'Adventure', 'Fantasy']",movie,star wars episode vi - return of the jedi,No,No,No
+9,2001: Een zwerftocht in de ruimte,Stanley Kubrick,2:29,8.3,"['Adventure', 'Sci-Fi']",movie,2001 een zwerftocht in de ruimte,No,No,No
+10,Reservoir Dogs,Quentin Tarantino,1:39,8.3,"['Crime', 'Drama', 'Thriller']",movie,reservoir dogs,No,No,No
+11,Taare Zameen Par,Aamir Khan,2:45,8.4,"['Drama', 'Family']",movie,taare zameen par,No,No,No
+12,Vertigo,Alfred Hitchcock,2:8,8.3,"['Mystery', 'Romance', 'Thriller']",movie,vertigo,No,No,No
+13,M - Eine Stadt sucht einen Mörder,Fritz Lang,1:57,8.3,"['Crime', 'Mystery', 'Thriller']",movie,m - eine stadt sucht einen mörder,No,No,No
+14,Jagten,Thomas Vinterberg,1:55,8.3,['Drama'],movie,jagten,No,No,No
+15,Citizen Kane,Orson Welles,1:59,8.3,"['Drama', 'Mystery']",movie,citizen kane,No,No,No
+16,Requiem for a Dream,Darren Aronofsky,1:42,8.3,['Drama'],movie,requiem for a dream,No,No,No
+17,Singin' in the Rain,Stanley Donen,1:43,8.3,"['Comedy', 'Musical', 'Romance']",movie,singin in the rain,No,No,No
+18,North by Northwest,Alfred Hitchcock,2:16,8.3,"['Adventure', 'Mystery', 'Thriller']",movie,north by northwest,No,No,No
+19,Ikiru,Akira Kurosawa,2:23,8.3,['Drama'],movie,ikiru,No,No,No
+20,Eternal Sunshine of the Spotless Mind,Michel Gondry,1:48,8.3,"['Drama', 'Romance', 'Sci-Fi']",movie,eternal sunshine of the spotless mind,No,Yes,No
+21,Ladri di biciclette,Vittorio De Sica,1:29,8.3,['Drama'],movie,ladri di biciclette,No,No,No
+22,Lawrence of Arabia,David Lean,3:48,8.3,"['Adventure', 'Biography', 'Drama']",movie,lawrence of arabia,No,No,No
+23,The Kid,Charles Chaplin,1:8,8.3,"['Comedy', 'Drama', 'Family']",movie,the kid,Yes,No,No
+24,Full Metal Jacket,Stanley Kubrick,1:56,8.3,"['Drama', 'War']",movie,full metal jacket,No,No,Yes
+25,Incendies,Denis Villeneuve,2:11,8.3,"['Drama', 'Mystery', 'War']",movie,incendies,No,No,No
+26,Dangal,Nitesh Tiwari,2:41,8.4,"['Action', 'Biography', 'Drama']",movie,dangal,No,No,No
+27,Het appartement,Billy Wilder,2:5,8.3,"['Comedy', 'Drama', 'Romance']",movie,het appartement,No,No,No
+28,Double Indemnity,Billy Wilder,1:47,8.3,"['Crime', 'Drama', 'Film-Noir']",movie,double indemnity,No,No,No
+29,Metropolis,Fritz Lang,2:33,8.3,"['Drama', 'Sci-Fi']",movie,metropolis,No,No,No
+30,A Clockwork Orange,Stanley Kubrick,2:16,8.3,"['Crime', 'Sci-Fi']",movie,a clockwork orange,No,No,No
+31,Taxi Driver,Martin Scorsese,1:54,8.2,"['Crime', 'Drama']",movie,taxi driver,No,No,No
+32,The Father,Florian Zeller,1:37,8.3,"['Drama', 'Mystery']",movie,the father,No,No,No
+33,The Sting,George Roy Hill,2:9,8.3,"['Comedy', 'Crime', 'Drama']",movie,the sting,No,No,No
+34,A Separation,Asghar Farhadi,2:3,8.3,['Drama'],movie,a separation,No,No,No
+35,Scarface,Brian De Palma,2:50,8.3,"['Crime', 'Drama']",movie,scarface,No,No,No
+36,Snatch,Guy Ritchie,1:44,8.2,"['Comedy', 'Crime']",movie,snatch,No,No,Yes
+37,1917,Sam Mendes,1:59,8.3,"['Action', 'Drama', 'War']",movie,1917,No,No,No
+38,Le fabuleux destin d'Amélie Poulain,Jean-Pierre Jeunet,2:2,8.3,"['Comedy', 'Romance']",movie,le fabuleux destin damélie poulain,No,No,No
+39,To Kill a Mockingbird,Robert Mulligan,2:9,8.2,"['Crime', 'Drama']",movie,to kill a mockingbird,No,No,No
+40,Toy Story 3,Lee Unkrich,1:43,8.2,"['Animation', 'Adventure', 'Comedy']",movie,toy story 3,Yes,No,No
+41,For a Few Dollars More,Sergio Leone,2:12,8.2,['Western'],movie,for a few dollars more,No,No,No
+42,Up,Pete Docter,1:36,8.2,"['Animation', 'Adventure', 'Comedy']",movie,up,Yes,Yes,Yes
+43,Pather Panchali,Satyajit Ray,2:5,8.4,['Drama'],movie,pather panchali,No,No,No
+44,Indiana Jones and the Last Crusade,Steven Spielberg,2:7,8.2,"['Action', 'Adventure']",movie,indiana jones and the last crusade,No,No,Yes
+45,Heat,Michael Mann,2:50,8.2,"['Action', 'Crime', 'Drama']",movie,heat,No,No,Yes
+46,L.A. Confidential,Curtis Hanson,2:18,8.2,"['Crime', 'Drama', 'Mystery']",movie,l.a. confidential,No,No,No
+47,Ran,Akira Kurosawa,2:42,8.2,"['Action', 'Drama', 'War']",movie,ran,Yes,Yes,Yes
+48,Die Hard,John McTiernan,2:12,8.2,"['Action', 'Thriller']",movie,die hard,No,No,No
+49,Yôjinbô,Akira Kurosawa,1:50,8.2,"['Action', 'Drama', 'Thriller']",movie,yôjinbô,No,No,No
+50,Green Book,Peter Farrelly,2:10,8.2,"['Biography', 'Comedy', 'Drama']",movie,green book,No,No,No
+51,Rashômon,Akira Kurosawa,1:28,8.2,"['Crime', 'Drama', 'Mystery']",movie,rashômon,No,No,No
+52,Der Untergang,Oliver Hirschbiegel,2:36,8.2,"['Biography', 'Drama', 'History']",movie,der untergang,No,No,No
+53,All About Eve,Joseph L. Mankiewicz,2:18,8.2,['Drama'],movie,all about eve,No,No,No
+54,Monty Python and the Holy Grail,Terry Gilliam,1:31,8.2,"['Adventure', 'Comedy', 'Fantasy']",movie,monty python and the holy grail,No,No,No
+55,Some Like It Hot,Billy Wilder,2:1,8.2,"['Comedy', 'Music', 'Romance']",movie,some like it hot,No,No,No
+56,Batman Begins,Christopher Nolan,2:20,8.2,"['Action', 'Crime', 'Drama']",movie,batman begins,No,No,No
+57,Unforgiven,Clint Eastwood,2:10,8.2,"['Drama', 'Western']",movie,unforgiven,No,No,No
+58,Jai Bhim,T.J. Gnanavel,2:44,9.3,"['Crime', 'Drama']",movie,jai bhim,No,No,No
+59,Bacheha-Ye aseman,Majid Majidi,1:29,8.3,"['Drama', 'Family', 'Sport']",movie,bacheha-ye aseman,No,No,No
+60,Hauru no ugoku shiro,Hayao Miyazaki,1:59,8.2,"['Animation', 'Adventure', 'Family']",movie,hauru no ugoku shiro,No,No,No
+61,The Wolf of Wall Street,Martin Scorsese,3,8.2,"['Biography', 'Comedy', 'Crime']",movie,the wolf of wall street,No,No,No
+62,Oordeel te Neurenberg,Stanley Kramer,2:59,8.2,"['Drama', 'War']",movie,oordeel te neurenberg,No,No,No
+63,There Will Be Blood,Paul Thomas Anderson,2:38,8.2,['Drama'],movie,there will be blood,No,No,No
+64,Casino,Martin Scorsese,2:58,8.2,"['Crime', 'Drama']",movie,casino,No,No,Yes
+65,The Great Escape,John Sturges,2:52,8.2,"['Adventure', 'Drama', 'History']",movie,the great escape,No,No,No
+66,The Treasure of the Sierra Madre,John Huston,2:6,8.2,"['Adventure', 'Drama', 'Western']",movie,the treasure of the sierra madre,No,No,No
+67,Pan's Labyrinth,Guillermo del Toro,1:58,8.2,"['Drama', 'Fantasy', 'War']",movie,pans labyrinth,No,No,No
+68,A Beautiful Mind,Ron Howard,2:15,8.2,"['Biography', 'Drama']",movie,a beautiful mind,No,No,Yes
+69,El secreto de sus ojos,Juan José Campanella,2:9,8.2,"['Drama', 'Mystery', 'Romance']",movie,el secreto de sus ojos,No,No,No
+70,Raging Bull,Martin Scorsese,2:9,8.2,"['Biography', 'Drama', 'Sport']",movie,raging bull,No,No,No
+71,Chinatown,Roman Polanski,2:10,8.2,"['Drama', 'Mystery', 'Thriller']",movie,chinatown,No,No,No
+72,Tonari no Totoro,Hayao Miyazaki,1:26,8.2,"['Animation', 'Comedy', 'Family']",movie,tonari no totoro,No,No,No
+73,Shutter Island,Martin Scorsese,2:18,8.2,"['Mystery', 'Thriller']",movie,shutter island,No,Yes,No
+74,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1:47,8.2,"['Action', 'Comedy', 'Crime']",movie,lock stock and two smoking barrels,No,No,No
+75,No Country for Old Men,Ethan Coen,2:2,8.1,"['Crime', 'Drama', 'Thriller']",movie,no country for old men,No,No,Yes
+76,Klaus,Sergio Pablos,1:36,8.2,"['Animation', 'Adventure', 'Comedy']",movie,klaus,No,No,No
+77,Dial M for Murder,Alfred Hitchcock,1:45,8.2,"['Crime', 'Thriller']",movie,dial m for murder,No,No,No
+78,The Thing,John Carpenter,1:49,8.1,"['Horror', 'Mystery', 'Sci-Fi']",movie,the thing,No,Yes,No
+79,The Gold Rush,Charles Chaplin,1:35,8.2,"['Adventure', 'Comedy', 'Drama']",movie,the gold rush,No,No,No
+80,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,1:55,8.1,"['Comedy', 'Crime', 'Drama']",movie,three billboards outside ebbing missouri,No,No,No
+81,Det sjunde inseglet,Ingmar Bergman,1:36,8.2,"['Drama', 'Fantasy', 'History']",movie,det sjunde inseglet,No,No,No
+82,The Elephant Man,David Lynch,2:4,8.1,"['Biography', 'Drama']",movie,the elephant man,No,No,No
+83,The Sixth Sense,M. Night Shyamalan,1:47,8.1,"['Drama', 'Mystery', 'Thriller']",movie,the sixth sense,No,No,No
+84,Dersu Uzala,Akira Kurosawa,2:22,8.3,"['Adventure', 'Biography', 'Drama']",movie,dersu uzala,No,No,No
+85,Jurassic Park,Steven Spielberg,2:7,8.1,"['Action', 'Adventure', 'Sci-Fi']",movie,jurassic park,No,No,No
+86,The Truman Show,Peter Weir,1:43,8.1,"['Comedy', 'Drama']",movie,the truman show,No,No,No
+87,Smultronstället,Ingmar Bergman,1:31,8.2,"['Drama', 'Romance']",movie,smultronstället,No,No,No
+88,The Third Man,Carol Reed,1:44,8.1,"['Film-Noir', 'Mystery', 'Thriller']",movie,the third man,No,No,No
+89,Salinui chueok,Bong Joon Ho,2:11,8.1,"['Crime', 'Drama', 'Mystery']",movie,salinui chueok,No,No,No
+90,V for Vendetta,James McTeigue,2:12,8.1,"['Action', 'Drama', 'Sci-Fi']",movie,v for vendetta,No,No,No
+91,Blade Runner,Ridley Scott,1:57,8.1,"['Action', 'Drama', 'Sci-Fi']",movie,blade runner,No,No,Yes
+92,Trainspotting,Danny Boyle,1:33,8.1,['Drama'],movie,trainspotting,No,No,Yes
+93,Fargo,Joel Coen,1:38,8.1,"['Crime', 'Thriller']",movie,fargo,No,No,No
+94,The Bridge on the River Kwai,David Lean,2:41,8.1,"['Adventure', 'Drama', 'War']",movie,the bridge on the river kwai,No,No,No
+95,Binnenstebuiten,Pete Docter,1:35,8.1,"['Animation', 'Adventure', 'Comedy']",movie,binnenstebuiten,No,No,No
+96,Finding Nemo,Andrew Stanton,1:40,8.1,"['Animation', 'Adventure', 'Comedy']",movie,finding nemo,Yes,No,No
+97,Kill Bill: Vol. 1,Quentin Tarantino,1:51,8.1,"['Action', 'Crime', 'Drama']",movie,kill bill vol. 1,No,Yes,No
+98,Warrior,Gavin O'Connor,2:20,8.1,"['Action', 'Drama', 'Sport']",movie,warrior,Yes,Yes,Yes
+99,Gejaagd door de wind,Victor Fleming,3:58,8.1,"['Drama', 'History', 'Romance']",movie,gejaagd door de wind,No,No,No
+100,Tôkyô monogatari,Yasujirô Ozu,2:16,8.2,['Drama'],movie,tôkyô monogatari,No,No,No
+101,On the Waterfront,Elia Kazan,1:48,8.1,"['Crime', 'Drama', 'Thriller']",movie,on the waterfront,No,No,No
+102,Babam ve Oglum,Cagan Irmak,1:52,8.2,"['Drama', 'Family']",movie,babam ve oglum,No,No,No
+103,Relatos salvajes,Damián Szifron,2:2,8.1,"['Comedy', 'Drama', 'Thriller']",movie,relatos salvajes,No,No,No
+104,Prisoners,Denis Villeneuve,2:33,8.1,"['Crime', 'Drama', 'Mystery']",movie,prisoners,No,No,No
+105,Stalker,Andrei Tarkovsky,2:42,8.1,"['Drama', 'Sci-Fi']",movie,stalker,No,No,No
+106,The Grand Budapest Hotel,Wes Anderson,1:39,8.1,"['Adventure', 'Comedy', 'Crime']",movie,the grand budapest hotel,No,No,No
+107,The Deer Hunter,Michael Cimino,3:3,8.1,"['Drama', 'War']",movie,the deer hunter,No,No,No
+108,The General,Clyde Bruckman,1:7,8.1,"['Action', 'Adventure', 'Comedy']",movie,the general,No,No,No
+109,Persona,Ingmar Bergman,1:25,8.1,"['Drama', 'Thriller']",movie,persona,No,No,No
+110,Gran Torino,Clint Eastwood,1:56,8.1,['Drama'],movie,gran torino,No,No,No
+111,Sherlock Jr.,Buster Keaton,45,8.2,"['Action', 'Comedy', 'Romance']",movie,sherlock jr.,No,No,No
+112,Before Sunrise,Richard Linklater,1:41,8.1,"['Drama', 'Romance']",movie,before sunrise,No,No,No
+113,Mary and Max.,Adam Elliot,1:32,8.1,"['Animation', 'Comedy', 'Drama']",movie,mary and max.,No,No,No
+114,Catch Me If You Can,Steven Spielberg,2:21,8.1,"['Biography', 'Crime', 'Drama']",movie,catch me if you can,No,No,Yes
+115,Mr. Smith Goes to Washington,Frank Capra,2:9,8.1,"['Comedy', 'Drama']",movie,mr. smith goes to washington,No,No,No
+116,Barry Lyndon,Stanley Kubrick,3:5,8.1,"['Adventure', 'Drama', 'History']",movie,barry lyndon,No,No,No
+117,In the Name of the Father,Jim Sheridan,2:13,8.1,"['Biography', 'Crime', 'Drama']",movie,in the name of the father,No,No,No
+118,Dune,Denis Villeneuve,2:35,8.1,"['Action', 'Adventure', 'Drama']",movie,dune,No,No,No
+119,Hacksaw Ridge,Mel Gibson,2:19,8.1,"['Biography', 'Drama', 'History']",movie,hacksaw ridge,No,No,No
+120,Planet Earth II,-,4:58,9.5,['Documentary'],show,planet earth ii,No,No,No
+121,Planet Earth,-,8:58,9.4,['Documentary'],show,planet earth,No,No,No
+122,Breaking Bad,-,49,9.4,"['Crime', 'Drama', 'Thriller']",show,breaking bad,No,No,No
+123,Band of Brothers,-,9:54,9.4,"['Drama', 'History', 'War']",show,band of brothers,No,No,Yes
+124,Chernobyl,-,5:30,9.4,"['Drama', 'History', 'Thriller']",show,chernobyl,No,Yes,Yes
+125,The Wire,-,59,9.3,"['Crime', 'Drama', 'Thriller']",show,the wire,No,No,Yes
+126,Blue Planet II,-,6:4,9.3,['Documentary'],show,blue planet ii,No,No,No
+127,Cosmos: A Spacetime Odyssey,-,9:17,9.3,['Documentary'],show,cosmos a spacetime odyssey,Yes,No,No
+128,Our Planet,-,6:43,9.3,['Documentary'],show,our planet,No,No,No
+129,Avatar: The Last Airbender,-,23,9.3,"['Animation', 'Action', 'Adventure']",show,avatar the last airbender,No,No,No
+130,Cosmos,-,13,9.3,['Documentary'],show,cosmos,Yes,No,No
+131,The Sopranos,-,55,9.2,"['Crime', 'Drama']",show,the sopranos,No,No,Yes
+132,Game of Thrones,-,57,9.2,"['Action', 'Adventure', 'Drama']",show,game of thrones,No,No,Yes
+133,Rick and Morty,-,23,9.2,"['Animation', 'Adventure', 'Comedy']",show,rick and morty,No,No,Yes
+134,The World at War,-,52,9.2,"['Documentary', 'History', 'War']",show,the world at war,No,No,No
+135,The Last Dance,-,8:11,9.1,"['Documentary', 'Biography', 'History']",show,the last dance,No,No,No
+136,Life,-,7:53,9.1,['Documentary'],show,life,Yes,Yes,Yes
+137,Hagane no renkinjutsushi,-,24,9.1,"['Animation', 'Action', 'Adventure']",show,hagane no renkinjutsushi,No,No,No
+138,Sherlock,-,1:28,9.1,"['Crime', 'Drama', 'Mystery']",show,sherlock,No,Yes,Yes
+139,Arcane,-,41,9.1,"['Animation', 'Action', 'Adventure']",show,arcane,No,No,No
+140,The Vietnam War,-,16:30,9.1,"['Documentary', 'History', 'War']",show,the vietnam war,No,No,No
+141,Scam 1992: The Harshad Mehta Story,-,54,9.5,"['Biography', 'Crime', 'Drama']",show,scam 1992 the harshad mehta story,No,No,No
+142,The Beatles: Get Back,-,7:48,9.1,"['Documentary', 'Music']",show,the beatles get back,Yes,No,No
+143,The Twilight Zone,-,51,9.0,"['Drama', 'Fantasy', 'Horror']",show,the twilight zone,No,No,No
+144,The Blue Planet,-,6:29,9.0,['Documentary'],show,the blue planet,No,No,No
+145,Batman: The Animated Series,-,23,9.0,"['Animation', 'Action', 'Adventure']",show,batman the animated series,No,No,No
+146,Human Planet,-,50,9.0,['Documentary'],show,human planet,No,No,No
+147,Firefly,-,44,9.0,"['Adventure', 'Drama', 'Sci-Fi']",show,firefly,No,No,No
+148,Frozen Planet,-,5:33,9.0,['Documentary'],show,frozen planet,No,No,No
+149,Sahsiyet,-,1:5,9.1,"['Crime', 'Drama', 'Mystery']",show,sahsiyet,No,No,No
+150,Clarkson's Farm,-,45,9.1,"['Documentary', 'Reality-TV']",show,clarksons farm,No,No,No
+151,Death Note: Desu nôto,-,24,9.0,"['Animation', 'Crime', 'Drama']",show,death note desu nôto,No,No,No
+152,Dekalog,-,9:32,9.0,['Drama'],show,dekalog,No,No,No
+153,True Detective,-,55,8.9,"['Crime', 'Drama', 'Mystery']",show,true detective,No,No,Yes
+154,Attack on Titan,-,24,9.0,"['Animation', 'Action', 'Adventure']",show,attack on titan,No,No,No
+155,Kaubôi bibappu,-,24,8.9,"['Animation', 'Action', 'Adventure']",show,kaubôi bibappu,No,No,No
+156,The Civil War,-,11:20,9.0,"['Documentary', 'History', 'War']",show,the civil war,No,No,No
+157,Hunter x Hunter,-,24,9.0,"['Animation', 'Action', 'Adventure']",show,hunter x hunter,No,No,No
+158,Fargo,-,53,8.9,"['Crime', 'Drama', 'Thriller']",show,fargo,No,No,No
+159,The Office,-,22,8.9,['Comedy'],show,the office,No,No,No
+160,When They See Us,-,4:56,8.9,"['Biography', 'Crime', 'Drama']",show,when they see us,No,No,No
+161,Africa,-,6,8.9,['Documentary'],show,africa,Yes,Yes,No
+162,Apocalypse: La 2ème guerre mondiale,-,5:12,9.0,"['Documentary', 'History', 'War']",show,apocalypse la 2ème guerre mondiale,No,No,No
+163,Only Fools and Horses....,-,1:35,8.9,['Comedy'],show,only fools and horses....,No,No,No
+164,TVF Pitchers,-,40,9.1,"['Comedy', 'Drama']",show,tvf pitchers,No,No,No
+165,Last Week Tonight with John Oliver,-,30,8.8,"['Comedy', 'History', 'News']",show,last week tonight with john oliver,No,No,Yes
+166,Gravity Falls,-,23,8.9,"['Animation', 'Action', 'Adventure']",show,gravity falls,Yes,No,No
+167,Seinfeld,-,22,8.8,['Comedy'],show,seinfeld,No,No,No
+168,Das Boot,-,4:53,8.8,"['Drama', 'War']",show,das boot,No,No,No
+169,Nathan for You,-,30,8.9,"['Documentary', 'Comedy']",show,nathan for you,No,No,No
+170,Monty Python's Flying Circus,-,30,8.8,['Comedy'],show,monty pythons flying circus,No,No,No
+171,1883,-,1,9.1,"['Drama', 'Western']",show,1883,No,No,No
+172,Friends,-,22,8.8,"['Comedy', 'Romance']",show,friends,Yes,No,Yes
+173,Pride and Prejudice,-,5:27,8.8,"['Drama', 'Romance']",show,pride and prejudice,No,No,No
+174,Black Mirror,-,1,8.8,"['Drama', 'Sci-Fi', 'Thriller']",show,black mirror,No,No,No
+175,Twin Peaks,-,47,8.8,"['Crime', 'Drama', 'Mystery']",show,twin peaks,No,No,Yes
+176,Achter de Tuinmuur,-,22,8.8,"['Animation', 'Adventure', 'Comedy']",show,achter de tuinmuur,No,No,No
+177,Kota Factory,-,45,9.2,"['Comedy', 'Drama']",show,kota factory,No,No,No
+178,Succession,-,1,8.8,['Drama'],show,succession,No,No,Yes
+179,Fawlty Towers,-,30,8.7,['Comedy'],show,fawlty towers,No,No,No
+180,It's Always Sunny in Philadelphia,-,22,8.8,['Comedy'],show,its always sunny in philadelphia,No,No,No
+181,Blackadder Goes Forth,-,2:55,8.8,"['Comedy', 'War']",show,blackadder goes forth,No,No,No
+182,Narcos,-,49,8.8,"['Biography', 'Crime', 'Drama']",show,narcos,No,No,No
+183,Better Call Saul,-,46,8.8,"['Crime', 'Drama']",show,better call saul,No,No,No
+184,Ted Lasso,-,30,8.8,"['Comedy', 'Drama', 'Sport']",show,ted lasso,No,No,No
+185,Freaks and Geeks,-,44,8.7,"['Comedy', 'Drama']",show,freaks and geeks,No,No,No
+186,Chappelle's Show,-,22,8.7,"['Comedy', 'Music']",show,chappelles show,No,No,No
+187,The West Wing,-,44,8.8,['Drama'],show,the west wing,No,No,No
+188,Peaky Blinders,-,1,8.8,"['Crime', 'Drama']",show,peaky blinders,No,No,No
+189,The Mandalorian,-,40,8.8,"['Action', 'Adventure', 'Fantasy']",show,the mandalorian,Yes,No,No
+190,Steins;Gate,-,24,8.8,"['Animation', 'Comedy', 'Drama']",show,steins;gate,No,No,No
+191,Dark,-,1,8.8,"['Crime', 'Drama', 'Mystery']",show,dark,Yes,Yes,Yes
+192,BoJack Horseman,-,25,8.7,"['Animation', 'Comedy', 'Drama']",show,bojack horseman,No,No,No
+193,One Punch Man,-,24,8.8,"['Animation', 'Action', 'Comedy']",show,one punch man,No,No,No
+194,Curb Your Enthusiasm,-,28,8.7,['Comedy'],show,curb your enthusiasm,No,No,No
+195,Dragon Ball Z: Doragon bôru zetto,-,24,8.7,"['Animation', 'Action', 'Adventure']",show,dragon ball z doragon bôru zetto,No,No,No
+196,Vinland Saga,-,24,8.8,"['Animation', 'Action', 'Adventure']",show,vinland saga,No,No,No
+197,Rome,-,52,8.7,"['Action', 'Drama', 'History']",show,rome,No,Yes,Yes
+198,Dragon Ball Z,-,24,8.7,"['Animation', 'Action', 'Adventure']",show,dragon ball z,No,No,No
+199,"I, Claudius",-,11:9,8.8,"['Biography', 'Drama', 'History']",show,i claudius,No,No,No
+200,Fleabag,-,27,8.7,"['Comedy', 'Drama']",show,fleabag,No,No,No
+201,Oz,-,55,8.7,"['Crime', 'Drama', 'Thriller']",show,oz,Yes,Yes,Yes
+202,Invincible,-,50,8.7,"['Animation', 'Action', 'Adventure']",show,invincible,Yes,No,No
+203,Leyla ile Mecnun,-,1:20,9.1,"['Adventure', 'Comedy', 'Drama']",show,leyla ile mecnun,No,No,No
+204,Arrested Development,-,22,8.7,['Comedy'],show,arrested development,No,No,No
+205,Six Feet Under,-,1,8.7,"['Comedy', 'Drama']",show,six feet under,No,No,Yes
+206,South Park,-,22,8.7,"['Animation', 'Comedy']",show,south park,No,No,No
+207,The Adventures of Sherlock Holmes,-,1,8.7,"['Crime', 'Drama', 'Mystery']",show,the adventures of sherlock holmes,No,No,No
+208,Stranger Things,-,51,8.7,"['Drama', 'Fantasy', 'Horror']",show,stranger things,No,No,No
+209,The Marvelous Mrs. Maisel,-,57,8.7,"['Comedy', 'Drama']",show,the marvelous mrs. maisel,No,No,No
+210,The Boys,-,1,8.7,"['Action', 'Crime', 'Drama']",show,the boys,Yes,No,No
+211,The Thick of It,-,29,8.7,['Comedy'],show,the thick of it,No,No,No
+212,Battlestar Galactica,-,44,8.7,"['Action', 'Adventure', 'Drama']",show,battlestar galactica,No,No,No
+213,Justice League Unlimited,-,23,8.7,"['Animation', 'Action', 'Adventure']",show,justice league unlimited,No,No,No
+214,House of Cards,-,51,8.7,['Drama'],show,house of cards,No,No,No
+215,House M.D.,-,44,8.7,"['Drama', 'Mystery']",show,house m.d.,No,No,No
+216,One Piece: Stampede,-,24,8.7,"['Animation', 'Action', 'Adventure']",show,one piece stampede,No,No,No
+217,Kenpû Denki Berserk,-,23,8.7,"['Animation', 'Action', 'Adventure']",show,kenpû denki berserk,No,No,No
+218,The Shield,-,47,8.7,"['Crime', 'Drama', 'Thriller']",show,the shield,No,No,No
+219,The Simpsons,-,22,8.6,"['Animation', 'Comedy']",show,the simpsons,Yes,No,No
+220,Mahabharat,-,45,8.9,"['Adventure', 'Drama', 'History']",show,mahabharat,No,No,No
+221,The Crown,-,58,8.6,"['Biography', 'Drama', 'History']",show,the crown,No,No,No
+222,The Return of Sherlock Holmes,-,1,8.7,"['Crime', 'Drama', 'Mystery']",show,the return of sherlock holmes,No,No,No
+223,The Jinx: The Life and Deaths of Robert Durst,-,4:39,8.6,"['Documentary', 'Crime', 'Mystery']",show,the jinx the life and deaths of robert durst,No,No,Yes
+224,Downton Abbey,-,58,8.7,"['Drama', 'Romance']",show,downton abbey,No,No,No
+225,Line of Duty,-,1,8.7,"['Crime', 'Drama', 'Mystery']",show,line of duty,No,No,No
+226,The Grand Tour,-,1,8.7,"['Comedy', 'Talk-Show']",show,the grand tour,No,No,No
+227,Ramayan,-,30,9.0,"['Adventure', 'Drama', 'Family']",show,ramayan,No,No,No
+228,It's a Sin,-,3:59,8.7,"['Comedy', 'Drama', 'History']",show,its a sin,No,No,Yes
+229,Star Trek: The Next Generation,-,44,8.6,"['Action', 'Adventure', 'Sci-Fi']",show,star trek the next generation,No,No,No
+230,Deadwood,-,55,8.6,"['Crime', 'Drama', 'History']",show,deadwood,No,No,Yes
+231,Top Gear,-,1,8.6,"['Adventure', 'Comedy', 'Reality-TV']",show,top gear,No,No,No
+232,Atlanta,-,30,8.6,"['Comedy', 'Drama', 'Music']",show,atlanta,No,No,Yes
+233,Dopesick,-,8:12,8.7,['Drama'],show,dopesick,No,No,No
+234,Lonesome Dove,-,6:24,8.7,"['Adventure', 'Drama', 'Western']",show,lonesome dove,No,No,No
+235,Young Justice,-,23,8.7,"['Animation', 'Action', 'Adventure']",show,young justice,No,No,No
+236,Haikyuu!!,-,24,8.7,"['Animation', 'Comedy', 'Drama']",show,haikyuu,No,No,No
+237,Sarabhai V/S Sarabhai,-,30,8.8,['Comedy'],show,sarabhai v/s sarabhai,No,No,No
+238,Mad Men,-,47,8.6,['Drama'],show,mad men,No,No,No
+239,Bron/Broen,-,1,8.6,"['Crime', 'Mystery', 'Thriller']",show,bron/broen,No,No,No
+240,Kôdo giasu - Hangyaku no rurûshu: Code Geass - Lelouch of the Rebellion,-,24,8.7,"['Animation', 'Action', 'Drama']",show,kôdo giasu - hangyaku no rurûshu code geass - lelouch of the rebellion,No,No,No
+241,Formula 1: Drive to Survive,-,40,8.6,"['Documentary', 'Sport']",show,formula 1 drive to survive,No,No,No
+242,Blackadder II,-,2:56,8.6,['Comedy'],show,blackadder ii,No,No,No
+243,Monster,-,24,8.7,"['Animation', 'Crime', 'Drama']",show,monster,Yes,Yes,Yes
+244,Peep Show,-,25,8.6,['Comedy'],show,peep show,No,No,No
+245,The X Files,-,45,8.6,"['Crime', 'Drama', 'Mystery']",show,the x files,No,No,No
+246,Parks and Recreation,-,22,8.6,['Comedy'],show,parks and recreation,No,No,No
+247,Yellowstone,-,1,8.8,"['Drama', 'Western']",show,yellowstone,Yes,No,No
+248,Gomorra: La serie,-,55,8.7,"['Crime', 'Drama', 'Thriller']",show,gomorra la serie,No,No,No
+249,Friday Night Lights,-,44,8.6,"['Drama', 'Sport']",show,friday night lights,No,Yes,No
+250,Mindhunter,-,1,8.6,"['Crime', 'Drama', 'Thriller']",show,mindhunter,No,No,No
+251,Le Bureau des Légendes,-,52,8.7,"['Drama', 'Thriller']",show,le bureau des légendes,No,No,No
+252,Father Ted,-,25,8.6,['Comedy'],show,father ted,No,No,No
+253,Anne,-,1,8.7,"['Drama', 'Family']",show,anne,Yes,Yes,Yes
+254,Jujutsu Kaisen,-,24,8.7,"['Animation', 'Action', 'Adventure']",show,jujutsu kaisen,No,No,No
+255,Dexter,-,53,8.6,"['Crime', 'Drama', 'Mystery']",show,dexter,No,No,Yes
+256,The Haunting of Hill House,-,9:32,8.6,"['Drama', 'Horror', 'Mystery']",show,the haunting of hill house,No,No,No
+257,The Bugs Bunny Show,-,30,8.6,"['Animation', 'Comedy']",show,the bugs bunny show,No,No,No
+258,Westworld,-,1:2,8.6,"['Drama', 'Mystery', 'Sci-Fi']",show,westworld,No,No,Yes
+259,Blackadder the Third,-,3,8.6,['Comedy'],show,blackadder the third,No,No,No
+260,Daredevil,-,54,8.6,"['Action', 'Crime', 'Drama']",show,daredevil,Yes,No,No
+261,This Is Us,-,45,8.6,"['Comedy', 'Drama', 'Romance']",show,this is us,No,No,No
+262,Panchayat,-,35,8.8,"['Comedy', 'Drama']",show,panchayat,No,No,No

@@ -1,0 +1,264 @@
+,title,director,duration,rating,genre,type
+0,Toy Story,John Lasseter,1:21,8.3,"['Animation', 'Adventure', 'Comedy']",movie
+1,Amadeus,Milos Forman,2:40,8.3,"['Biography', 'Drama', 'Music']",movie
+2,American Beauty,Sam Mendes,2:2,8.3,['Drama'],movie
+3,Braveheart,Mel Gibson,2:58,8.3,"['Biography', 'Drama', 'History']",movie
+4,Inglourious Basterds,Quentin Tarantino,2:33,8.3,"['Adventure', 'Drama', 'War']",movie
+5,Good Will Hunting,Gus Van Sant,2:6,8.3,"['Drama', 'Romance']",movie
+6,Hamilton,Thomas Kail,2:40,8.4,"['Biography', 'Drama', 'History']",movie
+7,Idi i smotri,Elem Klimov,2:22,8.3,"['Drama', 'Thriller', 'War']",movie
+8,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,2:11,8.3,"['Action', 'Adventure', 'Fantasy']",movie
+9,2001: Een zwerftocht in de ruimte,Stanley Kubrick,2:29,8.3,"['Adventure', 'Sci-Fi']",movie
+10,Reservoir Dogs,Quentin Tarantino,1:39,8.3,"['Crime', 'Drama', 'Thriller']",movie
+11,Taare Zameen Par,Aamir Khan,2:45,8.4,"['Drama', 'Family']",movie
+12,Vertigo,Alfred Hitchcock,2:8,8.3,"['Mystery', 'Romance', 'Thriller']",movie
+13,M - Eine Stadt sucht einen Mörder,Fritz Lang,1:57,8.3,"['Crime', 'Mystery', 'Thriller']",movie
+14,Jagten,Thomas Vinterberg,1:55,8.3,['Drama'],movie
+15,Citizen Kane,Orson Welles,1:59,8.3,"['Drama', 'Mystery']",movie
+16,Requiem for a Dream,Darren Aronofsky,1:42,8.3,['Drama'],movie
+17,Singin' in the Rain,Stanley Donen,1:43,8.3,"['Comedy', 'Musical', 'Romance']",movie
+18,North by Northwest,Alfred Hitchcock,2:16,8.3,"['Adventure', 'Mystery', 'Thriller']",movie
+19,Ikiru,Akira Kurosawa,2:23,8.3,['Drama'],movie
+20,Eternal Sunshine of the Spotless Mind,Michel Gondry,1:48,8.3,"['Drama', 'Romance', 'Sci-Fi']",movie
+21,Ladri di biciclette,Vittorio De Sica,1:29,8.3,['Drama'],movie
+22,Lawrence of Arabia,David Lean,3:48,8.3,"['Adventure', 'Biography', 'Drama']",movie
+23,The Kid,Charles Chaplin,1:8,8.3,"['Comedy', 'Drama', 'Family']",movie
+24,Full Metal Jacket,Stanley Kubrick,1:56,8.3,"['Drama', 'War']",movie
+25,Incendies,Denis Villeneuve,2:11,8.3,"['Drama', 'Mystery', 'War']",movie
+26,Dangal,Nitesh Tiwari,2:41,8.4,"['Action', 'Biography', 'Drama']",movie
+27,Het appartement,Billy Wilder,2:5,8.3,"['Comedy', 'Drama', 'Romance']",movie
+28,Double Indemnity,Billy Wilder,1:47,8.3,"['Crime', 'Drama', 'Film-Noir']",movie
+29,Metropolis,Fritz Lang,2:33,8.3,"['Drama', 'Sci-Fi']",movie
+30,A Clockwork Orange,Stanley Kubrick,2:16,8.3,"['Crime', 'Sci-Fi']",movie
+31,Taxi Driver,Martin Scorsese,1:54,8.2,"['Crime', 'Drama']",movie
+32,The Father,Florian Zeller,1:37,8.3,"['Drama', 'Mystery']",movie
+33,The Sting,George Roy Hill,2:9,8.3,"['Comedy', 'Crime', 'Drama']",movie
+34,A Separation,Asghar Farhadi,2:3,8.3,['Drama'],movie
+35,Scarface,Brian De Palma,2:50,8.3,"['Crime', 'Drama']",movie
+36,Snatch,Guy Ritchie,1:44,8.2,"['Comedy', 'Crime']",movie
+37,1917,Sam Mendes,1:59,8.3,"['Action', 'Drama', 'War']",movie
+38,Le fabuleux destin d'Amélie Poulain,Jean-Pierre Jeunet,2:2,8.3,"['Comedy', 'Romance']",movie
+39,To Kill a Mockingbird,Robert Mulligan,2:9,8.2,"['Crime', 'Drama']",movie
+40,Toy Story 3,Lee Unkrich,1:43,8.2,"['Animation', 'Adventure', 'Comedy']",movie
+41,For a Few Dollars More,Sergio Leone,2:12,8.2,['Western'],movie
+42,Up,Pete Docter,1:36,8.2,"['Animation', 'Adventure', 'Comedy']",movie
+43,Pather Panchali,Satyajit Ray,2:5,8.4,['Drama'],movie
+44,Indiana Jones and the Last Crusade,Steven Spielberg,2:7,8.2,"['Action', 'Adventure']",movie
+45,Heat,Michael Mann,2:50,8.2,"['Action', 'Crime', 'Drama']",movie
+46,L.A. Confidential,Curtis Hanson,2:18,8.2,"['Crime', 'Drama', 'Mystery']",movie
+47,Ran,Akira Kurosawa,2:42,8.2,"['Action', 'Drama', 'War']",movie
+48,Die Hard,John McTiernan,2:12,8.2,"['Action', 'Thriller']",movie
+49,Yôjinbô,Akira Kurosawa,1:50,8.2,"['Action', 'Drama', 'Thriller']",movie
+50,Green Book,Peter Farrelly,2:10,8.2,"['Biography', 'Comedy', 'Drama']",movie
+51,Rashômon,Akira Kurosawa,1:28,8.2,"['Crime', 'Drama', 'Mystery']",movie
+52,Der Untergang,Oliver Hirschbiegel,2:36,8.2,"['Biography', 'Drama', 'History']",movie
+53,All About Eve,Joseph L. Mankiewicz,2:18,8.2,['Drama'],movie
+54,Monty Python and the Holy Grail,Terry Gilliam,1:31,8.2,"['Adventure', 'Comedy', 'Fantasy']",movie
+55,Some Like It Hot,Billy Wilder,2:1,8.2,"['Comedy', 'Music', 'Romance']",movie
+56,Batman Begins,Christopher Nolan,2:20,8.2,"['Action', 'Crime', 'Drama']",movie
+57,Unforgiven,Clint Eastwood,2:10,8.2,"['Drama', 'Western']",movie
+58,Jai Bhim,T.J. Gnanavel,2:44,9.3,"['Crime', 'Drama']",movie
+59,Bacheha-Ye aseman,Majid Majidi,1:29,8.3,"['Drama', 'Family', 'Sport']",movie
+60,Hauru no ugoku shiro,Hayao Miyazaki,1:59,8.2,"['Animation', 'Adventure', 'Family']",movie
+61,The Wolf of Wall Street,Martin Scorsese,3,8.2,"['Biography', 'Comedy', 'Crime']",movie
+62,Oordeel te Neurenberg,Stanley Kramer,2:59,8.2,"['Drama', 'War']",movie
+63,There Will Be Blood,Paul Thomas Anderson,2:38,8.2,['Drama'],movie
+64,Casino,Martin Scorsese,2:58,8.2,"['Crime', 'Drama']",movie
+65,The Great Escape,John Sturges,2:52,8.2,"['Adventure', 'Drama', 'History']",movie
+66,The Treasure of the Sierra Madre,John Huston,2:6,8.2,"['Adventure', 'Drama', 'Western']",movie
+67,Pan's Labyrinth,Guillermo del Toro,1:58,8.2,"['Drama', 'Fantasy', 'War']",movie
+68,A Beautiful Mind,Ron Howard,2:15,8.2,"['Biography', 'Drama']",movie
+69,El secreto de sus ojos,Juan José Campanella,2:9,8.2,"['Drama', 'Mystery', 'Romance']",movie
+70,Raging Bull,Martin Scorsese,2:9,8.2,"['Biography', 'Drama', 'Sport']",movie
+71,Chinatown,Roman Polanski,2:10,8.2,"['Drama', 'Mystery', 'Thriller']",movie
+72,Tonari no Totoro,Hayao Miyazaki,1:26,8.2,"['Animation', 'Comedy', 'Family']",movie
+73,Shutter Island,Martin Scorsese,2:18,8.2,"['Mystery', 'Thriller']",movie
+74,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1:47,8.2,"['Action', 'Comedy', 'Crime']",movie
+75,No Country for Old Men,Ethan Coen,2:2,8.1,"['Crime', 'Drama', 'Thriller']",movie
+76,Klaus,Sergio Pablos,1:36,8.2,"['Animation', 'Adventure', 'Comedy']",movie
+77,Dial M for Murder,Alfred Hitchcock,1:45,8.2,"['Crime', 'Thriller']",movie
+78,The Thing,John Carpenter,1:49,8.1,"['Horror', 'Mystery', 'Sci-Fi']",movie
+79,The Gold Rush,Charles Chaplin,1:35,8.2,"['Adventure', 'Comedy', 'Drama']",movie
+80,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,1:55,8.1,"['Comedy', 'Crime', 'Drama']",movie
+81,Det sjunde inseglet,Ingmar Bergman,1:36,8.2,"['Drama', 'Fantasy', 'History']",movie
+82,The Elephant Man,David Lynch,2:4,8.1,"['Biography', 'Drama']",movie
+83,The Sixth Sense,M. Night Shyamalan,1:47,8.1,"['Drama', 'Mystery', 'Thriller']",movie
+84,Dersu Uzala,Akira Kurosawa,2:22,8.3,"['Adventure', 'Biography', 'Drama']",movie
+85,Jurassic Park,Steven Spielberg,2:7,8.1,"['Action', 'Adventure', 'Sci-Fi']",movie
+86,The Truman Show,Peter Weir,1:43,8.1,"['Comedy', 'Drama']",movie
+87,Smultronstället,Ingmar Bergman,1:31,8.2,"['Drama', 'Romance']",movie
+88,The Third Man,Carol Reed,1:44,8.1,"['Film-Noir', 'Mystery', 'Thriller']",movie
+89,Salinui chueok,Bong Joon Ho,2:11,8.1,"['Crime', 'Drama', 'Mystery']",movie
+90,V for Vendetta,James McTeigue,2:12,8.1,"['Action', 'Drama', 'Sci-Fi']",movie
+91,Blade Runner,Ridley Scott,1:57,8.1,"['Action', 'Drama', 'Sci-Fi']",movie
+92,Trainspotting,Danny Boyle,1:33,8.1,['Drama'],movie
+93,Fargo,Joel Coen,1:38,8.1,"['Crime', 'Thriller']",movie
+94,The Bridge on the River Kwai,David Lean,2:41,8.1,"['Adventure', 'Drama', 'War']",movie
+95,Binnenstebuiten,Pete Docter,1:35,8.1,"['Animation', 'Adventure', 'Comedy']",movie
+96,Finding Nemo,Andrew Stanton,1:40,8.1,"['Animation', 'Adventure', 'Comedy']",movie
+97,Kill Bill: Vol. 1,Quentin Tarantino,1:51,8.1,"['Action', 'Crime', 'Drama']",movie
+98,Warrior,Gavin O'Connor,2:20,8.1,"['Action', 'Drama', 'Sport']",movie
+99,Gejaagd door de wind,Victor Fleming,3:58,8.1,"['Drama', 'History', 'Romance']",movie
+100,Tôkyô monogatari,Yasujirô Ozu,2:16,8.2,['Drama'],movie
+101,On the Waterfront,Elia Kazan,1:48,8.1,"['Crime', 'Drama', 'Thriller']",movie
+102,Babam ve Oglum,Cagan Irmak,1:52,8.2,"['Drama', 'Family']",movie
+103,Relatos salvajes,Damián Szifron,2:2,8.1,"['Comedy', 'Drama', 'Thriller']",movie
+104,Prisoners,Denis Villeneuve,2:33,8.1,"['Crime', 'Drama', 'Mystery']",movie
+105,Stalker,Andrei Tarkovsky,2:42,8.1,"['Drama', 'Sci-Fi']",movie
+106,The Grand Budapest Hotel,Wes Anderson,1:39,8.1,"['Adventure', 'Comedy', 'Crime']",movie
+107,The Deer Hunter,Michael Cimino,3:3,8.1,"['Drama', 'War']",movie
+108,The General,Clyde Bruckman,1:7,8.1,"['Action', 'Adventure', 'Comedy']",movie
+109,Persona,Ingmar Bergman,1:25,8.1,"['Drama', 'Thriller']",movie
+110,Gran Torino,Clint Eastwood,1:56,8.1,['Drama'],movie
+111,Sherlock Jr.,Buster Keaton,45,8.2,"['Action', 'Comedy', 'Romance']",movie
+112,Before Sunrise,Richard Linklater,1:41,8.1,"['Drama', 'Romance']",movie
+113,Mary and Max.,Adam Elliot,1:32,8.1,"['Animation', 'Comedy', 'Drama']",movie
+114,Catch Me If You Can,Steven Spielberg,2:21,8.1,"['Biography', 'Crime', 'Drama']",movie
+115,Mr. Smith Goes to Washington,Frank Capra,2:9,8.1,"['Comedy', 'Drama']",movie
+116,Barry Lyndon,Stanley Kubrick,3:5,8.1,"['Adventure', 'Drama', 'History']",movie
+117,In the Name of the Father,Jim Sheridan,2:13,8.1,"['Biography', 'Crime', 'Drama']",movie
+118,Dune,Denis Villeneuve,2:35,8.1,"['Action', 'Adventure', 'Drama']",movie
+119,Hacksaw Ridge,Mel Gibson,2:19,8.1,"['Biography', 'Drama', 'History']",movie
+0,Planet Earth II,-,4:58,9.5,['Documentary'],show
+1,Planet Earth,-,8:58,9.4,['Documentary'],show
+2,Breaking Bad,-,49,9.4,"['Crime', 'Drama', 'Thriller']",show
+3,Band of Brothers,-,9:54,9.4,"['Drama', 'History', 'War']",show
+4,Chernobyl,-,5:30,9.4,"['Drama', 'History', 'Thriller']",show
+5,The Wire,-,59,9.3,"['Crime', 'Drama', 'Thriller']",show
+6,Blue Planet II,-,6:4,9.3,['Documentary'],show
+7,Cosmos: A Spacetime Odyssey,-,9:17,9.3,['Documentary'],show
+8,Our Planet,-,6:43,9.3,['Documentary'],show
+9,Avatar: The Last Airbender,-,23,9.3,"['Animation', 'Action', 'Adventure']",show
+10,Cosmos,-,13,9.3,['Documentary'],show
+11,The Sopranos,-,55,9.2,"['Crime', 'Drama']",show
+12,Game of Thrones,-,57,9.2,"['Action', 'Adventure', 'Drama']",show
+13,Rick and Morty,-,23,9.2,"['Animation', 'Adventure', 'Comedy']",show
+14,The World at War,-,52,9.2,"['Documentary', 'History', 'War']",show
+15,The Last Dance,-,8:11,9.1,"['Documentary', 'Biography', 'History']",show
+16,Life,-,7:53,9.1,['Documentary'],show
+17,Hagane no renkinjutsushi,-,24,9.1,"['Animation', 'Action', 'Adventure']",show
+18,Sherlock,-,1:28,9.1,"['Crime', 'Drama', 'Mystery']",show
+19,Arcane,-,41,9.1,"['Animation', 'Action', 'Adventure']",show
+20,The Vietnam War,-,16:30,9.1,"['Documentary', 'History', 'War']",show
+21,Scam 1992: The Harshad Mehta Story,-,54,9.5,"['Biography', 'Crime', 'Drama']",show
+22,The Beatles: Get Back,-,7:48,9.1,"['Documentary', 'Music']",show
+23,The Twilight Zone,-,51,9.0,"['Drama', 'Fantasy', 'Horror']",show
+24,The Blue Planet,-,6:29,9.0,['Documentary'],show
+25,Batman: The Animated Series,-,23,9.0,"['Animation', 'Action', 'Adventure']",show
+26,Human Planet,-,50,9.0,['Documentary'],show
+27,Firefly,-,44,9.0,"['Adventure', 'Drama', 'Sci-Fi']",show
+28,Frozen Planet,-,5:33,9.0,['Documentary'],show
+29,Sahsiyet,-,1:5,9.1,"['Crime', 'Drama', 'Mystery']",show
+30,Clarkson's Farm,-,45,9.1,"['Documentary', 'Reality-TV']",show
+31,Death Note: Desu nôto,-,24,9.0,"['Animation', 'Crime', 'Drama']",show
+32,Dekalog,-,9:32,9.0,['Drama'],show
+33,True Detective,-,55,8.9,"['Crime', 'Drama', 'Mystery']",show
+34,Attack on Titan,-,24,9.0,"['Animation', 'Action', 'Adventure']",show
+35,Kaubôi bibappu,-,24,8.9,"['Animation', 'Action', 'Adventure']",show
+36,The Civil War,-,11:20,9.0,"['Documentary', 'History', 'War']",show
+37,Hunter x Hunter,-,24,9.0,"['Animation', 'Action', 'Adventure']",show
+38,Fargo,-,53,8.9,"['Crime', 'Drama', 'Thriller']",show
+39,The Office,-,22,8.9,['Comedy'],show
+40,When They See Us,-,4:56,8.9,"['Biography', 'Crime', 'Drama']",show
+41,Africa,-,6,8.9,['Documentary'],show
+42,Apocalypse: La 2ème guerre mondiale,-,5:12,9.0,"['Documentary', 'History', 'War']",show
+43,Only Fools and Horses....,-,1:35,8.9,['Comedy'],show
+44,TVF Pitchers,-,40,9.1,"['Comedy', 'Drama']",show
+45,Last Week Tonight with John Oliver,-,30,8.8,"['Comedy', 'History', 'News']",show
+46,Gravity Falls,-,23,8.9,"['Animation', 'Action', 'Adventure']",show
+47,Seinfeld,-,22,8.8,['Comedy'],show
+48,Das Boot,-,4:53,8.8,"['Drama', 'War']",show
+49,Nathan for You,-,30,8.9,"['Documentary', 'Comedy']",show
+50,Monty Python's Flying Circus,-,30,8.8,['Comedy'],show
+51,1883,-,1,9.1,"['Drama', 'Western']",show
+52,Friends,-,22,8.8,"['Comedy', 'Romance']",show
+53,Pride and Prejudice,-,5:27,8.8,"['Drama', 'Romance']",show
+54,Black Mirror,-,1,8.8,"['Drama', 'Sci-Fi', 'Thriller']",show
+55,Twin Peaks,-,47,8.8,"['Crime', 'Drama', 'Mystery']",show
+56,Achter de Tuinmuur,-,22,8.8,"['Animation', 'Adventure', 'Comedy']",show
+57,Kota Factory,-,45,9.2,"['Comedy', 'Drama']",show
+58,Succession,-,1,8.8,['Drama'],show
+59,Fawlty Towers,-,30,8.7,['Comedy'],show
+60,It's Always Sunny in Philadelphia,-,22,8.8,['Comedy'],show
+61,Blackadder Goes Forth,-,2:55,8.8,"['Comedy', 'War']",show
+62,Narcos,-,49,8.8,"['Biography', 'Crime', 'Drama']",show
+63,Better Call Saul,-,46,8.8,"['Crime', 'Drama']",show
+64,Ted Lasso,-,30,8.8,"['Comedy', 'Drama', 'Sport']",show
+65,Freaks and Geeks,-,44,8.7,"['Comedy', 'Drama']",show
+66,Chappelle's Show,-,22,8.7,"['Comedy', 'Music']",show
+67,The West Wing,-,44,8.8,['Drama'],show
+68,Peaky Blinders,-,1,8.8,"['Crime', 'Drama']",show
+69,The Mandalorian,-,40,8.8,"['Action', 'Adventure', 'Fantasy']",show
+70,Steins;Gate,-,24,8.8,"['Animation', 'Comedy', 'Drama']",show
+71,Dark,-,1,8.8,"['Crime', 'Drama', 'Mystery']",show
+72,BoJack Horseman,-,25,8.7,"['Animation', 'Comedy', 'Drama']",show
+73,One Punch Man,-,24,8.8,"['Animation', 'Action', 'Comedy']",show
+74,Curb Your Enthusiasm,-,28,8.7,['Comedy'],show
+75,Dragon Ball Z: Doragon bôru zetto,-,24,8.7,"['Animation', 'Action', 'Adventure']",show
+76,Vinland Saga,-,24,8.8,"['Animation', 'Action', 'Adventure']",show
+77,Rome,-,52,8.7,"['Action', 'Drama', 'History']",show
+78,Dragon Ball Z,-,24,8.7,"['Animation', 'Action', 'Adventure']",show
+79,"I, Claudius",-,11:9,8.8,"['Biography', 'Drama', 'History']",show
+80,Fleabag,-,27,8.7,"['Comedy', 'Drama']",show
+81,Oz,-,55,8.7,"['Crime', 'Drama', 'Thriller']",show
+82,Invincible,-,50,8.7,"['Animation', 'Action', 'Adventure']",show
+83,Leyla ile Mecnun,-,1:20,9.1,"['Adventure', 'Comedy', 'Drama']",show
+84,Arrested Development,-,22,8.7,['Comedy'],show
+85,Six Feet Under,-,1,8.7,"['Comedy', 'Drama']",show
+86,South Park,-,22,8.7,"['Animation', 'Comedy']",show
+87,The Adventures of Sherlock Holmes,-,1,8.7,"['Crime', 'Drama', 'Mystery']",show
+88,Stranger Things,-,51,8.7,"['Drama', 'Fantasy', 'Horror']",show
+89,The Marvelous Mrs. Maisel,-,57,8.7,"['Comedy', 'Drama']",show
+90,The Boys,-,1,8.7,"['Action', 'Crime', 'Drama']",show
+91,The Thick of It,-,29,8.7,['Comedy'],show
+92,Battlestar Galactica,-,44,8.7,"['Action', 'Adventure', 'Drama']",show
+93,Justice League Unlimited,-,23,8.7,"['Animation', 'Action', 'Adventure']",show
+94,House of Cards,-,51,8.7,['Drama'],show
+95,House M.D.,-,44,8.7,"['Drama', 'Mystery']",show
+96,One Piece: Stampede,-,24,8.7,"['Animation', 'Action', 'Adventure']",show
+97,Kenpû Denki Berserk,-,23,8.7,"['Animation', 'Action', 'Adventure']",show
+98,The Shield,-,47,8.7,"['Crime', 'Drama', 'Thriller']",show
+99,The Simpsons,-,22,8.6,"['Animation', 'Comedy']",show
+100,Mahabharat,-,45,8.9,"['Adventure', 'Drama', 'History']",show
+101,The Crown,-,58,8.6,"['Biography', 'Drama', 'History']",show
+102,The Return of Sherlock Holmes,-,1,8.7,"['Crime', 'Drama', 'Mystery']",show
+103,The Jinx: The Life and Deaths of Robert Durst,-,4:39,8.6,"['Documentary', 'Crime', 'Mystery']",show
+104,Downton Abbey,-,58,8.7,"['Drama', 'Romance']",show
+105,Line of Duty,-,1,8.7,"['Crime', 'Drama', 'Mystery']",show
+106,The Grand Tour,-,1,8.7,"['Comedy', 'Talk-Show']",show
+107,Ramayan,-,30,9.0,"['Adventure', 'Drama', 'Family']",show
+108,It's a Sin,-,3:59,8.7,"['Comedy', 'Drama', 'History']",show
+109,Star Trek: The Next Generation,-,44,8.6,"['Action', 'Adventure', 'Sci-Fi']",show
+110,Deadwood,-,55,8.6,"['Crime', 'Drama', 'History']",show
+111,Top Gear,-,1,8.6,"['Adventure', 'Comedy', 'Reality-TV']",show
+112,Atlanta,-,30,8.6,"['Comedy', 'Drama', 'Music']",show
+113,Dopesick,-,8:12,8.7,['Drama'],show
+114,Lonesome Dove,-,6:24,8.7,"['Adventure', 'Drama', 'Western']",show
+115,Young Justice,-,23,8.7,"['Animation', 'Action', 'Adventure']",show
+116,Haikyuu!!,-,24,8.7,"['Animation', 'Comedy', 'Drama']",show
+117,Sarabhai V/S Sarabhai,-,30,8.8,['Comedy'],show
+118,Mad Men,-,47,8.6,['Drama'],show
+119,Bron/Broen,-,1,8.6,"['Crime', 'Mystery', 'Thriller']",show
+120,Kôdo giasu - Hangyaku no rurûshu: Code Geass - Lelouch of the Rebellion,-,24,8.7,"['Animation', 'Action', 'Drama']",show
+121,Formula 1: Drive to Survive,-,40,8.6,"['Documentary', 'Sport']",show
+122,Blackadder II,-,2:56,8.6,['Comedy'],show
+123,Monster,-,24,8.7,"['Animation', 'Crime', 'Drama']",show
+124,Peep Show,-,25,8.6,['Comedy'],show
+125,The X Files,-,45,8.6,"['Crime', 'Drama', 'Mystery']",show
+126,Parks and Recreation,-,22,8.6,['Comedy'],show
+127,Yellowstone,-,1,8.8,"['Drama', 'Western']",show
+128,Gomorra: La serie,-,55,8.7,"['Crime', 'Drama', 'Thriller']",show
+129,Friday Night Lights,-,44,8.6,"['Drama', 'Sport']",show
+130,Mindhunter,-,1,8.6,"['Crime', 'Drama', 'Thriller']",show
+132,Le Bureau des Légendes,-,52,8.7,"['Drama', 'Thriller']",show
+133,Father Ted,-,25,8.6,['Comedy'],show
+134,Anne,-,1,8.7,"['Drama', 'Family']",show
+135,Jujutsu Kaisen,-,24,8.7,"['Animation', 'Action', 'Adventure']",show
+136,Dexter,-,53,8.6,"['Crime', 'Drama', 'Mystery']",show
+137,The Haunting of Hill House,-,9:32,8.6,"['Drama', 'Horror', 'Mystery']",show
+138,The Bugs Bunny Show,-,30,8.6,"['Animation', 'Comedy']",show
+139,Westworld,-,1:2,8.6,"['Drama', 'Mystery', 'Sci-Fi']",show
+140,Blackadder the Third,-,3,8.6,['Comedy'],show
+141,Daredevil,-,54,8.6,"['Action', 'Crime', 'Drama']",show
+142,This Is Us,-,45,8.6,"['Comedy', 'Drama', 'Romance']",show
+143,Panchayat,-,35,8.8,"['Comedy', 'Drama']",show
